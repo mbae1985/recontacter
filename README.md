@@ -1,2 +1,2 @@
-# recontacter
+# Recontacter
 Swisscom Assurance Recontacter
